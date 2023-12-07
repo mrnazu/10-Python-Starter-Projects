@@ -41,12 +41,12 @@ Explore each project in its dedicated folder. Challenge yourself to complete all
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/10-python-starter-projects.git
+   git clone https://github.com/mrnazu/10-Python-Starter-Projects.git
    ```
 
 2. **Navigate to a Project:**
    ```bash
-   cd project1-web-scraper/
+   cd 10-Python-Starter-Projects/
    ```
 
 ## Challenge: Vim-Only Coding
