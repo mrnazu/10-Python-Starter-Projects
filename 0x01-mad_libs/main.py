@@ -4,10 +4,10 @@ def get_input(prompt: str):
     user_input = input(prompt)
     return user_input
 
-name = get_input("Enter your bug bounty hunter alias: ")
+name = get_input("Enter your bug bounty hunter usernmae: ")
 activity = get_input("Describe an activity you enjoy when not hacking (e.g., sipping coffee, listening to music): ")
-website = get_input("Enter the name of a fictional website: ")
-vulnerability = get_input("Specify a technical vulnerability (e.g., SQL injection, Cross-Site Scripting): ")
+website = get_input("Enter the name of website: ")
+vulnerability = get_input("Specify a technical vulnerability (e.g., SQL injection, XSS, IDOR): ")
 payment = get_input("Mention an extravagant item you'd buy with the bug bounty reward: ")
 fun_activity = get_input("Share a fun activity you'd do to celebrate your successful bug report: ")
 
