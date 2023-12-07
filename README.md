@@ -6,25 +6,25 @@ Welcome to the "10 Python Starter Projects" repository! Embark on a journey to m
 
 Explore each project in its dedicated folder. Challenge yourself to complete all ten projects, progressing from basic to intermediate levels.
 
-###### 1. [Mad Libs](MadLibs/)
+#### 1. [Mad Libs](MadLibs/)
 - A fun and interactive text-based game where users input words to create a humorous story.
-###### 2. [Number Guessing Game](NumberGuessingGame/)
+#### 2. [Number Guessing Game](NumberGuessingGame/)
 - A simple console-based game where the user tries to guess a randomly generated number within a specified range.
-###### 3. [Dice Simulator](DiceSimulator/)
+#### 3. [Dice Simulator](DiceSimulator/)
 - Simulate the roll of a dice with user-friendly interfaces.
-###### 4. [Hangman](Hangman/)
+#### 4. [Hangman](Hangman/)
 - A classic word-guessing game where players try to discover a hidden word by suggesting letters.
-###### 5. [Rock, Paper, Scissors](RockPaperScissors/)
+#### 5. [Rock, Paper, Scissors](RockPaperScissors/)
 - A console-based implementation of the popular Rock, Paper, Scissors game.
-###### 6. [Password Generator](PasswordGenerator/)
+#### 6. [Password Generator](PasswordGenerator/)
 - Generate secure passwords with customizable options.
-###### 7. [QR Code Generator](QRCodeGenerator/)
+#### 7. [QR Code Generator](QRCodeGenerator/)
 - Create QR codes for various types of information.
-###### 8. [Website Checker](WebsiteChecker/)
+#### 8. [Website Checker](WebsiteChecker/)
 - Check the availability and response status of websites.
-###### 9. [Brute Force](BruteForce/)
+#### 9. [Brute Force](BruteForce/)
 - Implement a basic brute force algorithm for educational purposes.
-###### 10. [Image Downloader](ImageDownloader/)
+#### 10. [Image Downloader](ImageDownloader/)
 - Download images from a given URL.
 
 ## Getting Started
