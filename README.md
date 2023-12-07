@@ -6,26 +6,36 @@ Welcome to the "10 Python Starter Projects" repository! Embark on a journey to m
 
 Explore each project in its dedicated folder. Challenge yourself to complete all ten projects, progressing from basic to intermediate levels.
 
-1. **Mad Libs**
+1. **[Mad Libs](MadLibs/)**
    - *Description:* A text-based game where users input words to create a humorous story.
-2. **Number Guessing Game**
+
+2. **[Number Guessing Game](NumberGuessingGame/)**
    - *Description:* A console-based game where the user guesses a randomly generated number within a specified range.
-3. **Dice Simulator**
+
+3. **[Dice Simulator](DiceSimulator/)**
    - *Description:* Simulate the roll of a dice with user-friendly interfaces.
-4. **Hangman**
+
+4. **[Hangman](Hangman/)**
    - *Description:* A classic word-guessing game where players discover a hidden word by suggesting letters.
-5. **Rock, Paper, Scissors**
+
+5. **[Rock, Paper, Scissors](RockPaperScissors/)**
    - *Description:* A console-based implementation of the popular Rock, Paper, Scissors game.
-6. **Password Generator**
+
+6. **[Password Generator](PasswordGenerator/)**
    - *Description:* Generate secure passwords with customizable options.
-7. **QR Code Generator**
+
+7. **[QR Code Generator](QRCodeGenerator/)**
    - *Description:* Create QR codes for various types of information.
-8. **Website Checker**
+
+8. **[Website Checker](WebsiteChecker/)**
    - *Description:* Check the availability and response status of websites.
-9. **Brute Force**
+
+9. **[Brute Force](BruteForce/)**
    - *Description:* Implement a basic brute force algorithm for educational purposes.
-10. **Image Downloader**
-   - *Description:* Download images from a given URL.
+
+10. **[Image Downloader](ImageDownloader/)**
+    - *Description:* Download images from a given URL.
+
 
 
 ## Getting Started
