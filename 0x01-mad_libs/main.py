@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def get_input(prompt: str):
     user_input = input(prompt)
     return user_input
